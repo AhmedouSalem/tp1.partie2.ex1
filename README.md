@@ -93,7 +93,7 @@ tp1.partie2.ex1
 
 ### Aperçu
 
-![Interface Swing](images/viewSwing.png)
+![Interface Swing](./images/viewSwing.png)
 
 ### Composants principaux
 
@@ -145,7 +145,7 @@ tp1.partie2.ex1
 **Projet analysé :** `project.exemple.etude`
 
 **Résultats obtenus :**
-![Interface Swing](images/resultSwing.png)
+![Interface Swing](./images/resultSwing.png)
 
 ---
 
