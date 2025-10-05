@@ -1,0 +1,27 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>tp1.partie2</groupId>
+  <artifactId>tp1.partie2.ex1</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>tp1-partie2-ex1</name>
+  
+  <properties>
+    <maven.compiler.source>21</maven.compiler.source>
+    <maven.compiler.target>21</maven.compiler.target>
+    <!-- Mets la dernière version dispo sur Maven Central si besoin -->
+    <jdt.core.version>3.37.0</jdt.core.version>
+  </properties>
+
+  <dependencies>
+    <dependency>
+      <groupId>org.eclipse.jdt</groupId>
+      <artifactId>org.eclipse.jdt.core</artifactId>
+      <version>${jdt.core.version}</version>
+    </dependency>
+    <dependency>
+  <groupId>commons-io</groupId>
+  <artifactId>commons-io</artifactId>
+  <version>2.15.1</version>
+</dependency>
+  </dependencies>
+</project>
