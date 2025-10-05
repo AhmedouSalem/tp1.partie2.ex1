@@ -94,7 +94,7 @@ tp1.partie2.ex1
 ### Aperçu
 ---
 <p align="center">
-  <img src="https://github.com/AhmedouSalem/tp1.partie2.ex1/blob/main/%20images/view.png" alt="Interface Swing" width="700"/>
+  <img src="https://github.com/AhmedouSalem/tp1.partie2.ex1/blob/main/%20images/viewSwing.png" alt="Interface Swing" width="700"/>
 </p>
 
 ---
