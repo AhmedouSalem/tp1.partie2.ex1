@@ -92,9 +92,12 @@ tp1.partie2.ex1
 ## 🖥️ Interface Swing
 
 ### Aperçu
+---
+<p align="center">
+  <img src="images/viewSwing.png" alt="Interface Swing" width="700"/>
+</p>
 
-![Interface Swing](./images/viewSwing.png)
-
+---
 ### Composants principaux
 
 | Composant | Rôle |
@@ -145,7 +148,10 @@ tp1.partie2.ex1
 **Projet analysé :** `project.exemple.etude`
 
 **Résultats obtenus :**
-![Interface Swing](./images/resultSwing.png)
+<p align="center">
+  <img src="images/resultSwing.png" alt="Interface Swing" width="700"/>
+</p>
+
 
 ---
 
